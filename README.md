@@ -1,4 +1,6 @@
-I developed a simple android app using Java & XML that shows the implementation of android RecyclerView.
+This app inflates an simple Constraint Layout and put it into a RecyclerView.
+The RecyclerView recycles an View and keep recycling it.
+Hence, RecyclerView is so much faster and powerful.
 
 ## App Screenshots
 
