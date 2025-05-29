@@ -1,0 +1,1 @@
+I developed a simple android app using Java & XML that shows the implementation of android RecyclerView.
